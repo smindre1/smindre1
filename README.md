@@ -1,12 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Shane 👋
+- I'm a junior Full-Stack Web Developer
+- ✨ My Specialty is in MERN Stack
+- 🌱 I’m currently learning AngularJS, Typescript, Python,  and Django
+- 💪 I enjoy challenging myself with new tasks and projects
 
+Read more about me on [my site!](https://shane-mindreau.com/)
 <!--
-**smindre1/smindre1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
