@@ -1,12 +1,15 @@
 ## Hi there, I'm Shane 👋
-- I'm a junior Full-Stack Web Developer
+- I'm a Software Developer with a background in Full-Stack Web Development and Graphic Design
 - ✨ My Specialty is in MERN Stack
-- 🌱 I’m currently learning AngularJS, Typescript, Python,  and Django
+- 🌱 I’m currently learning AngularJS, Typescript, Python, Java, and Django
 - 💪 I enjoy challenging myself with new tasks and projects
 
 Read more about me on [my site!](https://shane-mindreau.com/)
-<!--
 
+You can reach me at shane.mindreau@gmail.com
+
+
+<!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
